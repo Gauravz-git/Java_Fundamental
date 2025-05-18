@@ -47,8 +47,8 @@ public class Polymorphism {
         a = new Dog();
         a.sound();
 
-        a= new Cat();
+        a = new Cat();
         a.sound();
-
+        
     }
 }
